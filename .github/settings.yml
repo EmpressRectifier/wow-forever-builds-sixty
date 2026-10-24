@@ -1,0 +1,9 @@
+repository:
+  name: wow-forever-builds-sixty
+  description: Replay any WoW Forever talent build level by level from 1 to 60. Free Windows app.
+  homepage: https://sixtywow.xyz
+  topics: ["wow", "talent-builds", "leveling", "windows", "free"]
+  private: false
+  has_issues: true
+  has_projects: false
+  has_wiki: false
