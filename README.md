@@ -9,6 +9,10 @@
 
 <p align="center"><a href="https://sixtywow.xyz"><b>Website</b></a> &nbsp;|&nbsp; <a href="https://sixtywow.xyz/downloads/Sixty-setup.exe"><b>Download for Windows</b></a></p>
 
+> **Download:** Windows build is in the link above — one `Sixty-setup.exe`, no installer, no account.
+>
+> The build isn't code-signed yet, so SmartScreen may warn you the first time. Choose **More info**, then **Run anyway**.
+
 <h1 align="center">Calculators show you level 60.<br>You'll spend weeks at level 23.</h1>
 
 <p align="center"><img src="assets/preview.gif" alt="Scrubbing a Frost Mage build from level 1 to 60 in Sixty" width="100%"></p>
